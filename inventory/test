@@ -1,10 +1,3 @@
-[all:children]
-uw_com
-ue_com
-sl_com
-uw_gpu
-ue_gpu
-sl_gpu
 [uw_com]
 uw-p-com-000
 uw-p-com-002
